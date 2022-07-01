@@ -2,6 +2,47 @@
 
 All notable changes to `statamic-responsive-images` will be documented in this file
 
+## v2.12.3 - 2022-05-25
+
+## What's Changed
+
+- Fix `method_exists` exception by @aerni in https://github.com/spatie/statamic-responsive-images/pull/136
+
+**Full Changelog**: https://github.com/spatie/statamic-responsive-images/compare/v2.12.2...v2.12.3
+
+## v2.12.2 - 2022-05-25
+
+## What's Changed
+
+- Add fix for issue #133 by @GertTimmerman in https://github.com/spatie/statamic-responsive-images/pull/135
+
+## New Contributors
+
+- @GertTimmerman made their first contribution in https://github.com/spatie/statamic-responsive-images/pull/135
+
+**Full Changelog**: https://github.com/spatie/statamic-responsive-images/compare/v2.12.1...v2.12.2
+
+## v2.12.1 - 2022-05-24
+
+- Fix an issue where images could get upscaled #134
+
+**Full Changelog**: https://github.com/spatie/statamic-responsive-images/compare/v2.12.0...v2.12.1
+
+## v2.12.0 - 2022-05-23
+
+## What's Changed
+
+- AVIF images and quality settings by @ncla in https://github.com/spatie/statamic-responsive-images/pull/123
+- Use asset data alt tag and fallback to title - fix #74
+- Max width now counts as max width for the source image as well - fix #114
+- Asset param can be a query builder - fix #116
+
+## New Contributors
+
+- @ncla made their first contribution in https://github.com/spatie/statamic-responsive-images/pull/123
+
+**Full Changelog**: https://github.com/spatie/statamic-responsive-images/compare/v2.11.2...v2.12.0
+
 ## v2.11.2 - 2022-04-19
 
 ## What's Changed
